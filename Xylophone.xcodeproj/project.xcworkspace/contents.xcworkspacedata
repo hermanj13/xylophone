@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../Xylophone/note1.wav">
+   </FileRef>
+   <FileRef
+      location = "group:../Xylophone/note2.wav">
+   </FileRef>
+   <FileRef
+      location = "group:../Xylophone/note3.wav">
+   </FileRef>
+   <FileRef
+      location = "group:../Xylophone/note4.wav">
+   </FileRef>
+   <FileRef
+      location = "group:../Xylophone/note5.wav">
+   </FileRef>
+   <FileRef
+      location = "group:../Xylophone/note6.wav">
+   </FileRef>
+   <FileRef
+      location = "group:../Xylophone/note7.wav">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
